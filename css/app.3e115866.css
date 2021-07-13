@@ -1513,75 +1513,75 @@ tr .text-green {
     color: #fff
 }
 
-.v-application--wrap[data-v-c95fb956] {
+.v-main__wrap {
+    position: relative
+}
+
+.v-application--wrap[data-v-1580e822] {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between
 }
 
-header[data-v-c95fb956] {
+header[data-v-1580e822] {
     height: 80px!important
 }
 
-.v-toolbar__content[data-v-c95fb956] {
+.v-toolbar__content[data-v-1580e822] {
     height: auto!important
 }
 
-.v-toolbar__content[data-v-c95fb956],
-.v-toolbar__extension[data-v-c95fb956] {
+.v-toolbar__content[data-v-1580e822],
+.v-toolbar__extension[data-v-1580e822] {
     padding: 10px 16px!important
 }
 
-.v-navigation-drawer[data-v-c95fb956] {
+.v-navigation-drawer[data-v-1580e822] {
     position: fixed;
     height: 100vh;
     top: 80px!important;
     width: 260px!important
 }
 
-.v-main[data-v-c95fb956] {
+.v-main[data-v-1580e822] {
     margin-left: 260px
 }
 
-.v-sheet.v-app-bar.v-toolbar[data-v-c95fb956]:not(.v-sheet--outlined) {
+.v-sheet.v-app-bar.v-toolbar[data-v-1580e822]:not(.v-sheet--outlined) {
     box-shadow: none!important
 }
 
-.v-list-group__header[data-v-c95fb956] {
+.v-list-group__header[data-v-1580e822] {
     transition: all .3s
 }
 
-.active--text[data-v-c95fb956] {
+.active--text[data-v-1580e822] {
     background-color: #b4b1a1;
     color: #fff!important;
     transition: all .3s
 }
 
-.v-list-item__icon[data-v-c95fb956]:nth-child(3) {
+.v-list-item__icon[data-v-1580e822]:nth-child(3) {
     display: none!important
 }
 
-.login[data-v-c95fb956] {
+.login[data-v-1580e822] {
     width: 85%;
     margin: 0 auto
 }
 
-.login_btn[data-v-c95fb956] {
+.login_btn[data-v-1580e822] {
     width: 100%;
     box-shadow: none!important
 }
 
-.login_btn[data-v-c95fb956],
-.logout_btn[data-v-c95fb956] {
+.login_btn[data-v-1580e822],
+.logout_btn[data-v-1580e822] {
     background-color: #b4b1a1!important;
     border-color: #b4b1a1!important
 }
 
-.v-input__slot[data-v-c95fb956] {
+.v-input__slot[data-v-1580e822] {
     margin-bottom: 0
-}
-
-.v-main__wrap[data-v-c95fb956] {
-    position: relative
 }
